@@ -5,7 +5,7 @@ public class TestBST {
 	public static void main(String[] args) {
 		
 		BinarySearchTree tree  = new BinarySearchTree();
-		
+		tree.insert(210);
 	    tree.insert(50);
         tree.insert(30);
         tree.insert(20);
